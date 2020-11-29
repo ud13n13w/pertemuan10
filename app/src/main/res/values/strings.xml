@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pertemuan10</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1"> Nama </string>
+    <string name="tab_text_2"> Hasil </string>
+    <string name="tab_text_3"> NPM </string>
+</resources>
